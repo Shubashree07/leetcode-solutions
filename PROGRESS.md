@@ -6,10 +6,9 @@
 **Programming Language:** C
 
 ## Overall Progress
-
 - Total problems required: 8
-- Problems solved: 4
-- Problems pending: 4
+- Problems solved: 5
+- Problems pending: 3
 
 ## Problem Tracking
 
@@ -18,7 +17,8 @@
 | 25-11-2026 | Two Sum | Arrays, Hash Table | Easy | Completed |
 | 25-11-2026 | Reverse a String | Strings, Two Pointers | Easy | Completed |
 | 25-11-2026 | Valid Anagram | Strings, Hash Table | Easy | Completed |
-| 25-11-2026 | Best Time to Buy and Sell Stock | Arrays, Greedy | Easy | Completed || - | Longest Common Prefix | Strings | Easy | Pending |
+| 25-11-2026 | Best Time to Buy and Sell Stock | Arrays, Greedy | Easy | Completed |
+| 25-11-2026 | Longest Common Prefix | Strings | Easy | Completed |
 | - | Binary Search | Binary Search | Easy | Pending |
 | - | Move Zeroes | Arrays, Two Pointers | Easy | Pending |
 | - | Valid Parentheses | Stack | Easy | Pending |
