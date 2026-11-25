@@ -2,15 +2,14 @@
 
 **Name:** Shuba Shree G J  
 **Roll Number:** R25EF258  
-**Course:** B.Tech CSE  
-**University:** REVA University  
+**Course:** B.Tech CSE – REVA University  
 **Programming Language:** C
 
 ## Overall Progress
 
 - Total problems required: 8
-- Problems solved: 2
-- Problems pending: 6
+- Problems solved: 3
+- Problems pending: 5
 
 ## Problem Tracking
 
@@ -18,7 +17,7 @@
 |---|---|---|---|---|
 | 25-11-2026 | Two Sum | Arrays, Hash Table | Easy | Completed |
 | 25-11-2026 | Reverse a String | Strings, Two Pointers | Easy | Completed |
-| - | Valid Anagram | Strings, Hash Table | Easy | Pending |
+| 25-11-2026 | Valid Anagram | Strings, Hash Table | Easy | Completed |
 | - | Best Time to Buy and Sell Stock | Arrays, Dynamic Programming | Easy | Pending |
 | - | Longest Common Prefix | Strings | Easy | Pending |
 | - | Binary Search | Binary Search | Easy | Pending |
@@ -28,5 +27,5 @@
 ## Notes
 
 - Solutions are implemented in C.
-- Each problem includes source code, a Markdown explanation, and a LeetCode result screenshot.
+- Each problem includes source code, Markdown explanation, and LeetCode result screenshot.
 - Local testing is performed before committing solutions to GitHub.
