@@ -1,30 +1,32 @@
-# LeetCode Progress Tracker
+# LeetCode Practice – Progress Tracker
 
 **Name:** Shuba Shree G J  
 **Roll Number:** R25EF258  
+**Course:** B.Tech CSE  
+**University:** REVA University  
 **Programming Language:** C
 
-## Problem Solving Progress
-
-# LeetCode Practice Progress
-
-| Date | Problem | Topic | Difficulty | Status | Time Taken |
-|---|---|---|---|---|---|
-| 25-11-2026 | Two Sum | Arrays, Hash Table | Easy | Completed | Add your time |
-| — | Reverse a String | Strings | Easy | Pending | — |
-| — | Valid Anagram | Strings, Hash Table | Easy | Pending | — |
-| — | Best Time to Buy and Sell Stock | Arrays | Easy | Pending | — |
-| — | Longest Common Prefix | Strings | Easy | Pending | — |
-| — | Binary Search | Binary Search | Easy | Pending | — |
-| — | Move Zeroes | Arrays | Easy | Pending | — |
-| — | Valid Parentheses | Stack | Easy | Pending | — |
-| — | Reverse a Linked List (Bonus) | Linked List | Easy | Pending | — |
-
-## Summary
+## Overall Progress
 
 - Total problems required: 8
-- Problems solved: 0
-- Problems pending: 8
-- Programming language: C
+- Problems solved: 2
+- Problems pending: 6
 
-*Update this tracker after completing each problem.*
+## Problem Tracking
+
+| Date | Problem | Topic | Difficulty | Status |
+|---|---|---|---|---|
+| 25-11-2026 | Two Sum | Arrays, Hash Table | Easy | Completed |
+| 25-11-2026 | Reverse a String | Strings, Two Pointers | Easy | Completed |
+| - | Valid Anagram | Strings, Hash Table | Easy | Pending |
+| - | Best Time to Buy and Sell Stock | Arrays, Dynamic Programming | Easy | Pending |
+| - | Longest Common Prefix | Strings | Easy | Pending |
+| - | Binary Search | Binary Search | Easy | Pending |
+| - | Move Zeroes | Arrays, Two Pointers | Easy | Pending |
+| - | Valid Parentheses | Stack | Easy | Pending |
+
+## Notes
+
+- Solutions are implemented in C.
+- Each problem includes source code, a Markdown explanation, and a LeetCode result screenshot.
+- Local testing is performed before committing solutions to GitHub.
