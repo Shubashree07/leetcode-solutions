@@ -8,8 +8,8 @@
 ## Overall Progress
 
 - Total problems required: 8
-- Problems solved: 3
-- Problems pending: 5
+- Problems solved: 4
+- Problems pending: 4
 
 ## Problem Tracking
 
@@ -18,8 +18,7 @@
 | 25-11-2026 | Two Sum | Arrays, Hash Table | Easy | Completed |
 | 25-11-2026 | Reverse a String | Strings, Two Pointers | Easy | Completed |
 | 25-11-2026 | Valid Anagram | Strings, Hash Table | Easy | Completed |
-| - | Best Time to Buy and Sell Stock | Arrays, Dynamic Programming | Easy | Pending |
-| - | Longest Common Prefix | Strings | Easy | Pending |
+| 25-11-2026 | Best Time to Buy and Sell Stock | Arrays, Greedy | Easy | Completed || - | Longest Common Prefix | Strings | Easy | Pending |
 | - | Binary Search | Binary Search | Easy | Pending |
 | - | Move Zeroes | Arrays, Two Pointers | Easy | Pending |
 | - | Valid Parentheses | Stack | Easy | Pending |
