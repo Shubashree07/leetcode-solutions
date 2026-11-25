@@ -6,3 +6,6 @@ valid_anagram
 longest_common_prefixbinary_search
 longest_common_prefix
 move_zeroes
+
+binary_search
+valid_parentheses

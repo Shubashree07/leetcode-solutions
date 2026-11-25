@@ -8,8 +8,8 @@
 ## Overall Progress
 
 - Total problems required: 8
-- Problems solved: 7
-- Problems pending: 1
+- Problems solved: 8
+- Problems pending: 0
 
 ## Problem Tracking
 
@@ -22,7 +22,7 @@
 | 25-11-2026 | Longest Common Prefix | Strings | Easy | Completed |
 | 25-11-2026 | Binary Search | Binary Search | Easy | Completed |
 | 25-11-2026 | Move Zeroes | Arrays, Two Pointers | Easy | Completed |
-| - | Valid Parentheses | Stack | Easy | Pending |
+| 25-11-2026 | Valid Parentheses | Stack | Easy | Completed |
 
 ## Notes
 
