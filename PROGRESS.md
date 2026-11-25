@@ -6,9 +6,10 @@
 **Programming Language:** C
 
 ## Overall Progress
+
 - Total problems required: 8
-- Problems solved: 5
-- Problems pending: 3
+- Problems solved: 6
+- Problems pending: 2
 
 ## Problem Tracking
 
@@ -19,7 +20,7 @@
 | 25-11-2026 | Valid Anagram | Strings, Hash Table | Easy | Completed |
 | 25-11-2026 | Best Time to Buy and Sell Stock | Arrays, Greedy | Easy | Completed |
 | 25-11-2026 | Longest Common Prefix | Strings | Easy | Completed |
-| - | Binary Search | Binary Search | Easy | Pending |
+| 25-11-2026 | Binary Search | Binary Search | Easy | Completed |
 | - | Move Zeroes | Arrays, Two Pointers | Easy | Pending |
 | - | Valid Parentheses | Stack | Easy | Pending |
 
@@ -28,3 +29,5 @@
 - Solutions are implemented in C.
 - Each problem includes source code, Markdown explanation, and LeetCode result screenshot.
 - Local testing is performed before committing solutions to GitHub.
+- All completed solutions are maintained in the public GitHub repository.
+
